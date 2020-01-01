@@ -1,4 +1,4 @@
-# IOT---Home-automation-project:house:
+# IOT-Home-automation-project :house:
 ## Home automation project using firebase and ESP module
 
 ### ESP8266
