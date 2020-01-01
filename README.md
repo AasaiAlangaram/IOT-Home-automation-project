@@ -9,7 +9,7 @@ Esp-01 was first  developed module
 -Wifi direct\
 -802.11 b/g/n\
 -Spi\
--Uart\ 
+-Uart\
 -I2c\
 -Integrated pll\
 -32 bit cpu
